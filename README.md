@@ -1,1 +1,3 @@
-python data exercise
+Numpy
+Pandas
+List
